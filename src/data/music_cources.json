@@ -1,0 +1,54 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "description": "Learn the basics of playing guitar, from chords to simple melodies.",
+      "slug": "guitar-fundamentals",
+      "price": "Beginner",
+      "instructor": "John Mayer",
+      "isFeatured": "Yes",
+      "image": "https://example.com/guitar-course.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "description": "A step-by-step guide to playing piano and reading sheet music.",
+      "slug": "piano-beginners",
+      "price": "Beginner",
+      "instructor": "Yiruma",
+      "isFeatured": "No",
+      "image": "https://example.com/piano-course.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Jazz Improvisation",
+      "description": "Master the art of jazz improvisation with advanced techniques.",
+      "slug": "jazz-improvisation",
+      "price": "Advanced",
+      "instructor": "Herbie Hancock",
+      "isFeatured": "Yes",
+      "image": "https://example.com/jazz-course.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Electronic Music Production",
+      "description": "Learn to produce electronic music using modern software and tools.",
+      "slug": "electronic-music",
+      "price": "Intermediate",
+      "instructor": "Deadmau5",
+      "isFeatured": "No",
+      "image": "https://example.com/electronic-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Classical Violin Essentials",
+      "description": "A classical violin course focusing on techniques and famous pieces.",
+      "slug": "classical-violin",
+      "price": "Intermediate",
+      "instructor": "Itzhak Perlman",
+      "isFeatured": "No",
+      "image": "https://example.com/violin-course.jpg"
+    }
+  ]
+}
