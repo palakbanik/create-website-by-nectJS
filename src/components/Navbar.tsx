@@ -27,7 +27,7 @@ export default function Navbar({ className }: { className?: string }) {
                 <HoveredLink href="#">Music Production</HoveredLink>
               </div>
             </MenuItem>
-            <Link href={"#"}>
+            <Link href="#">
               <MenuItem
                 setActive={setActive}
                 active={active}
