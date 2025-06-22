@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "description": "Learn the basics of playing guitar, from chords to simple melodies.",
+      "slug": "guitar-fundamentals",
+      "price": "Beginner",
+      "instructor": "John Mayer",
+      "isFeatured": true,
+      "image": "https://example.com/guitar-course.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Piano for Beginners",
+      "description": "A step-by-step guide to playing piano and reading sheet music.",
+      "slug": "piano-beginners",
+      "price": "Beginner",
+      "instructor": "Yiruma",
+      "isFeatured": false,
+      "image": "https://example.com/piano-course.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Advanced Jazz Improvisation",
+      "description": "Master the art of jazz improvisation with advanced techniques.",
+      "slug": "jazz-improvisation",
+      "price": "Advanced",
+      "instructor": "Herbie Hancock",
+      "isFeatured": true,
+      "image": "https://example.com/jazz-course.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Electronic Music Production",
+      "description": "Learn to produce electronic music using modern software and tools.",
+      "slug": "electronic-music",
+      "price": "Intermediate",
+      "instructor": "Deadmau5",
+      "isFeatured": false,
+      "image": "https://example.com/electronic-course.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Classical Violin Essentials",
+      "description": "A classical violin course focusing on techniques and famous pieces.",
+      "slug": "classical-violin",
+      "price": "Intermediate",
+      "instructor": "Itzhak Perlman",
+      "isFeatured": false,
+      "image": "https://example.com/violin-course.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Rock Drumming Techniques",
+      "description": "Learn powerful rock drumming patterns and fills.",
+      "slug": "rock-drumming",
+      "price": "Intermediate",
+      "instructor": "Dave Grohl",
+      "isFeatured": true,
+      "image": "https://example.com/drum-course.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Modern Music Composition",
+      "description": "Create modern music compositions using DAWs and synths.",
+      "slug": "modern-composition",
+      "price": "Advanced",
+      "instructor": "Hans Zimmer",
+      "isFeatured": false,
+      "image": "https://example.com/composition-course.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Hip Hop Beat Making",
+      "description": "Produce catchy and professional hip hop beats.",
+      "slug": "hiphop-beats",
+      "price": "Beginner",
+      "instructor": "J Dilla",
+      "isFeatured": true,
+      "image": "https://example.com/hiphop-course.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Music Theory Basics",
+      "description": "Understand the fundamentals of music theory.",
+      "slug": "music-theory",
+      "price": "Beginner",
+      "instructor": "Jacob Collier",
+      "isFeatured": false,
+      "image": "https://example.com/theory-course.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Film Scoring Workshop",
+      "description": "Learn to score music for films and TV shows.",
+      "slug": "film-scoring",
+      "price": "Advanced",
+      "instructor": "Ramin Djawadi",
+      "isFeatured": true,
+      "image": "https://example.com/filmscore-course.jpg"
+    }
+  ]
+}
