@@ -55,9 +55,9 @@ export default function UpcomingWebinars() {
           </div>
           <div className="mt-10">
             <HoverEffect
-              items={featureWebinars.map((wabinar) => ({
-                title: wabinar.title,
-                description: wabinar.description,
+              items={featureWebinars.map((webinar) => ({
+                title: webinar.title,
+                description: webinar.description,
                 link: "/",
               }))}
             />

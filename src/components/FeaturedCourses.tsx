@@ -14,7 +14,7 @@ interface Course {
 
 export default function FeaturedSection() {
   const featuredCourses = courseData.courses.filter(
-    (course: Course) => course.isFeatured
+    (course: Course) => course.isFeatured === true
   );
 
   return (
